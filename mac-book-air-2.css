@@ -1,0 +1,422 @@
+.find-your-own3 {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 690.5px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-fanwood-text);
+  color: var(--color-darkslategray-200);
+  display: none;
+  width: 621px;
+}
+.landing-page-child11 {
+  position: absolute;
+  top: 54px;
+  left: 1423px;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 142px;
+  height: 52px;
+}
+.home3,
+.login3 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.login3 {
+  top: 65px;
+  left: 1464px;
+  font-size: var(--font-size-xl);
+}
+.home3 {
+  top: 63px;
+  left: 650px;
+}
+.shop8 {
+  left: 772px;
+}
+.about-us7,
+.contact-us4,
+.shop8 {
+  position: absolute;
+  top: 63px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.about-us7 {
+  left: 886px;
+  text-decoration: underline;
+}
+.contact-us4 {
+  left: 1039px;
+}
+.landing-page-child12 {
+  position: absolute;
+  top: 64px;
+  left: 1332px;
+  width: 32px;
+  height: 32px;
+}
+.landing-page-child13 {
+  position: absolute;
+  top: calc(50% - 325px);
+  left: 991px;
+  border-radius: var(--br-122xl) var(--br-26xl) var(--br-131xl) var(--br-63xl);
+  background-color: var(--color-mediumseagreen);
+  box-shadow: 6px 6px 41px rgba(0, 0, 0, 0.08) inset;
+  width: 570px;
+  height: 717px;
+  display: none;
+}
+.landing-page-child14,
+.pexels-heitor-verdi-7665789-1-icon3 {
+  position: absolute;
+  top: 2778px;
+  left: 533px;
+  width: 317px;
+  height: 376px;
+  object-fit: cover;
+}
+.landing-page-child14 {
+  top: 162px;
+  left: 50px;
+  width: 1628px;
+  height: 955px;
+}
+.forever-beautiful8 {
+  position: absolute;
+  top: 52px;
+  left: 167px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-syncopate);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 275px;
+  height: 53px;
+}
+.landing-page-child15 {
+  position: absolute;
+  top: 771px;
+  left: 1039px;
+  width: 648px;
+  height: 97px;
+  mix-blend-mode: luminosity;
+}
+.forever-beautiful-by3 {
+  position: absolute;
+  top: 801px;
+  left: 1183px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-krona-one);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 379px;
+  height: 68px;
+}
+.about-us8,
+.landing-page3 {
+  position: absolute;
+  color: var(--color-gray);
+}
+.landing-page3 {
+  top: 0;
+  left: -21px;
+  background-color: var(--color-pink-200);
+  width: 1743px;
+  height: 1186px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+}
+.about-us8 {
+  top: 1335px;
+  left: calc(50% - 147px);
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  display: inline-block;
+  width: 352px;
+  height: 169px;
+}
+.blank-line1 {
+  margin: 0;
+}
+.text1,
+.text2 {
+  position: absolute;
+  top: 2492px;
+  left: 1470px;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-black);
+}
+.text2 {
+  top: 2528px;
+  left: 1477px;
+}
+.welcome-to-forever {
+  margin-block-start: 0;
+  margin-block-end: 50px;
+}
+.embrace-the-beauty,
+.our-makeup-brand,
+.welcome-to-forever-container {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-roboto-flex);
+  color: var(--color-black);
+  display: inline-block;
+}
+.welcome-to-forever-container {
+  top: 1592px;
+  left: 32px;
+  width: 1438px;
+  height: 196px;
+}
+.embrace-the-beauty,
+.our-makeup-brand {
+  top: 1788px;
+  left: 20px;
+  width: 1562px;
+}
+.embrace-the-beauty {
+  top: 2102px;
+  left: 29px;
+  width: 1553px;
+  height: 336px;
+}
+.macbook-air-2-child {
+  position: absolute;
+  top: 2952px;
+  left: calc(50% - 876px);
+  background-color: var(--color-gray);
+  width: 1737px;
+  height: 871px;
+}
+.forever-beautiful9 {
+  position: absolute;
+  top: 3102px;
+  left: 162px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  text-align: center;
+}
+.overview4,
+.pricing4,
+.products4,
+.releases4,
+.shop9 {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.shop9 {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  width: 75.5px;
+}
+.overview4,
+.pricing4,
+.products4,
+.releases4 {
+  top: 54px;
+  text-transform: capitalize;
+  width: 112px;
+}
+.overview4,
+.pricing4,
+.releases4 {
+  top: 102px;
+  width: 117px;
+}
+.pricing4,
+.releases4 {
+  top: 150px;
+  width: 86.8px;
+}
+.releases4 {
+  top: 198px;
+  width: 113.2px;
+}
+.shop-parent2 {
+  position: absolute;
+  top: 3190px;
+  left: 551px;
+  width: 117px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.company4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+}
+.about-us9,
+.contact5,
+.news4,
+.support4 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.contact5,
+.news4,
+.support4 {
+  top: 102px;
+}
+.news4,
+.support4 {
+  top: 150px;
+}
+.support4 {
+  top: 198px;
+}
+.company-parent2 {
+  position: absolute;
+  top: 3182px;
+  left: 771px;
+  width: 113px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.facebook-icon4 {
+  position: absolute;
+  top: 3330px;
+  left: 185px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.social-media4 {
+  position: absolute;
+  top: 3245px;
+  left: 238px;
+  font-size: var(--font-size-3xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+}
+.enter-your-email4 {
+  position: absolute;
+  top: 84px;
+  left: 28px;
+  display: inline-block;
+  width: 162px;
+  height: 29.3px;
+}
+.group-child15,
+.group-child16 {
+  position: absolute;
+  top: 70.3px;
+  height: 55.7px;
+}
+.group-child15 {
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 487px;
+}
+.group-child16 {
+  left: 372px;
+  background-color: var(--color-pink-200);
+  width: 115px;
+}
+.stay-up-to4,
+.submit4 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.submit4 {
+  top: 84px;
+  left: 393px;
+  color: var(--color-darkslategray-200);
+  width: 73px;
+  height: 29.3px;
+}
+.stay-up-to4 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto-slab);
+  width: 191px;
+  height: 28.3px;
+}
+.enter-your-email-parent2 {
+  position: absolute;
+  top: 3190px;
+  left: 1062px;
+  width: 487px;
+  height: 126px;
+  font-size: var(--font-size-xl);
+}
+.instagram-icon4,
+.twitter-icon4 {
+  position: absolute;
+  top: 3328px;
+  left: 354px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.twitter-icon4 {
+  top: 3329px;
+  left: 271px;
+  width: 35px;
+  height: 35px;
+}
+.cookies4,
+.privacy4,
+.terms4 {
+  position: absolute;
+  top: 3722px;
+  left: 1197px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.cookies4,
+.privacy4 {
+  left: 1323px;
+}
+.cookies4 {
+  left: 1451px;
+}
+.macbook-air-2-item {
+  position: absolute;
+  top: 3736px;
+  left: 106px;
+  border-top: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 1053px;
+  height: 2px;
+}
+.macbook-air-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3823px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

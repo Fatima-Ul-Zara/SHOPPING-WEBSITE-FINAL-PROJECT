@@ -1,0 +1,1410 @@
+.fashion-website-child {
+  position: absolute;
+  top: 6793px;
+  left: calc(50% - 864px);
+  background-color: var(--color-gray);
+  width: 1752px;
+  height: 611px;
+}
+.feedback-corner {
+  position: absolute;
+  top: 6010px;
+  left: calc(50% - 200px);
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-darkslategray-200);
+}
+.group-child17 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 217px);
+  border-radius: var(--br-10xs);
+  background-color: var(--color-pink-200);
+  box-shadow: 0 7px 30px rgba(0, 0, 0, 0.05);
+  width: 434px;
+  height: 253px;
+}
+.div23,
+.sarah-thompson {
+  position: absolute;
+  left: 18px;
+}
+.sarah-thompson {
+  top: 72px;
+  font-weight: 600;
+}
+.div23 {
+  top: 7px;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-roboto);
+}
+.i-absolutely-love {
+  position: absolute;
+  top: 128px;
+  left: calc(50% - 201px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 401px;
+}
+.group-child18,
+.rectangle-parent {
+  position: absolute;
+  left: calc(50% - 217px);
+  width: 434px;
+  height: 253px;
+}
+.rectangle-parent {
+  top: 6185px;
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-roboto-serif);
+}
+.group-child18 {
+  top: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  box-shadow: 0 7px 30px rgba(0, 0, 0, 0.05);
+}
+.div24,
+.emily-wilson {
+  position: absolute;
+  left: 19px;
+}
+.emily-wilson {
+  top: 72px;
+  font-weight: 600;
+}
+.div24 {
+  top: 7px;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-roboto);
+}
+.the-customer-experience {
+  position: absolute;
+  top: 128px;
+  left: calc(50% - 198px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 390px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 6185px;
+  left: calc(50% - 686px);
+  width: 434px;
+  height: 253px;
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-roboto-serif);
+}
+.olivia-martinez {
+  position: absolute;
+  top: 76px;
+  left: 19px;
+  font-weight: 600;
+}
+.i-had-a {
+  position: absolute;
+  top: 128px;
+  left: calc(50% - 198px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 395px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 6185px;
+  left: calc(50% + 254px);
+  width: 434px;
+  height: 253px;
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-roboto-serif);
+}
+.fashion-website-inner,
+.fashion-website-item {
+  position: absolute;
+  top: 6563px;
+  left: 887px;
+  width: 40px;
+  height: 40px;
+}
+.fashion-website-inner {
+  left: 797px;
+}
+.enter-your-email5 {
+  position: absolute;
+  top: 81px;
+  left: 28px;
+}
+.group-child20,
+.group-child21 {
+  position: absolute;
+  top: 67px;
+  height: 57px;
+}
+.group-child20 {
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 487px;
+}
+.group-child21 {
+  left: 372px;
+  background-color: var(--color-pink-200);
+  width: 115px;
+}
+.stay-up-to5,
+.submit5 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.submit5 {
+  top: 81px;
+  left: 393px;
+  color: var(--color-darkslategray-200);
+}
+.stay-up-to5 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto-slab);
+}
+.enter-your-email-parent3 {
+  position: absolute;
+  top: 6901px;
+  left: 1062px;
+  width: 487px;
+  height: 124px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.shop10,
+.social-media5 {
+  position: absolute;
+  top: 6981px;
+  left: 173px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+}
+.shop10 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+}
+.overview5,
+.pricing5,
+.products5,
+.releases5 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.overview5,
+.pricing5,
+.releases5 {
+  top: 102px;
+}
+.pricing5,
+.releases5 {
+  top: 150px;
+}
+.releases5 {
+  top: 198px;
+}
+.shop-parent3 {
+  position: absolute;
+  top: 6901px;
+  left: 571px;
+  width: 93px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.facebook-icon5 {
+  position: absolute;
+  top: 7034px;
+  left: 171px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.company-parent3,
+.cookies5,
+.privacy5,
+.terms5 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+}
+.company-parent3 {
+  top: 6901px;
+  left: 807px;
+  width: 113px;
+  height: 228px;
+  color: var(--color-pink-100);
+}
+.cookies5,
+.privacy5,
+.terms5 {
+  top: 7283px;
+  left: 1257px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.cookies5,
+.privacy5 {
+  left: 1356px;
+}
+.cookies5 {
+  left: 1467px;
+}
+.best-selling {
+  top: 1231px;
+  left: calc(50% - 176px);
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-roboto-slab);
+  color: var(--color-gray);
+}
+.best-selling,
+.get-in-on,
+.see-all {
+  position: absolute;
+  font-weight: 500;
+}
+.get-in-on {
+  top: 1352px;
+  left: calc(50% - 371px);
+  color: var(--color-gray);
+}
+.see-all {
+  top: 0;
+  left: 0;
+}
+.line-icon {
+  position: absolute;
+  top: 17px;
+  left: 91px;
+  max-height: 100%;
+  width: 23px;
+}
+.see-all-parent {
+  position: relative;
+  width: 114px;
+  height: 33px;
+}
+.frame-div {
+  position: absolute;
+  top: 2236px;
+  left: calc(50% - 112px);
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-darkslategray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 55px;
+  color: var(--color-darkslategray-200);
+}
+.forever-beautiful-foundation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.div26 {
+  position: absolute;
+  top: 41px;
+  left: 68px;
+  font-weight: 500;
+}
+.fi-ss-star-icon9 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.fi-ss-star-parent6,
+.group-child22 {
+  position: absolute;
+  top: 41px;
+  left: 229px;
+  width: 67px;
+  height: 33px;
+}
+.group-child22 {
+  top: 43.5px;
+  left: 180.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-foundation-parent {
+  position: absolute;
+  top: 2082px;
+  left: 211px;
+  width: 364px;
+  height: 74px;
+}
+.div28 {
+  position: absolute;
+  top: 41px;
+  left: 61px;
+  font-weight: 500;
+}
+.fi-ss-star-parent7,
+.group-child23 {
+  position: absolute;
+  top: 41px;
+  left: 222px;
+  width: 67px;
+  height: 33px;
+}
+.group-child23 {
+  top: 43.5px;
+  left: 173.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-concealer-parent {
+  position: absolute;
+  top: 2082px;
+  left: 686px;
+  width: 351px;
+  height: 74px;
+}
+.fi-ss-star-parent8,
+.group-child24 {
+  position: absolute;
+  top: 41px;
+  left: 231px;
+  width: 67px;
+  height: 33px;
+}
+.group-child24 {
+  top: 43.5px;
+  left: 181.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-mini-lipstic-parent {
+  position: absolute;
+  top: 2082px;
+  left: 1147px;
+  width: 367px;
+  height: 74px;
+}
+.fashion-website-child1 {
+  position: absolute;
+  top: 1465px;
+  left: 175px;
+  border-radius: var(--br-10xs);
+  background-color: #93b9a2;
+  width: 430px;
+  height: 566px;
+}
+.fashion-website-child2,
+.pexels-dima-valkov-6211621-1-icon {
+  position: absolute;
+  top: 1465px;
+  width: 430px;
+  height: 566px;
+  object-fit: cover;
+}
+.pexels-dima-valkov-6211621-1-icon {
+  left: 175px;
+}
+.fashion-website-child2 {
+  left: calc(50% - 215px);
+  border-radius: var(--br-10xs);
+}
+.fashion-website-child3 {
+  border-radius: var(--br-10xs);
+  background-color: #cadcd0;
+}
+.fashion-website-child3,
+.mask-group-icon,
+.pexels-dima-valkov-6503007-3-icon {
+  position: absolute;
+  top: 1465px;
+  left: 1119px;
+  width: 430px;
+  height: 566px;
+}
+.pexels-dima-valkov-6503007-3-icon {
+  object-fit: cover;
+}
+.fashion-website-child4 {
+  background-color: #ddece2;
+}
+.fashion-website-child4,
+.mask-group-icon1,
+.pexels-monstera-6311612-3-icon {
+  position: absolute;
+  top: 3308px;
+  left: 1230px;
+  width: 318px;
+  height: 378px;
+}
+.pexels-monstera-6311612-3-icon {
+  object-fit: cover;
+}
+.our-products {
+  position: absolute;
+  top: 2486px;
+  left: calc(50% - 154px);
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-gray);
+}
+.hot,
+.new-arrivals,
+.sale {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.sale {
+  top: 2622px;
+  left: 597px;
+}
+.hot,
+.new-arrivals {
+  top: 2614px;
+}
+.hot {
+  left: 829px;
+  color: var(--color-darkslategray-200);
+}
+.new-arrivals {
+  left: 1041px;
+}
+.fashion-website-child5 {
+  position: absolute;
+  top: 2646px;
+  left: 830px;
+  border-top: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 48px;
+  height: 2px;
+}
+.fashion-website-child10,
+.fashion-website-child6,
+.fashion-website-child7,
+.fashion-website-child8,
+.fashion-website-child9 {
+  position: absolute;
+  top: 2738px;
+  left: 175px;
+  background-color: var(--color-gainsboro-100);
+  width: 318px;
+  height: 378px;
+}
+.fashion-website-child10,
+.fashion-website-child7,
+.fashion-website-child8,
+.fashion-website-child9 {
+  top: 3308px;
+}
+.fashion-website-child10,
+.fashion-website-child8,
+.fashion-website-child9 {
+  left: 528px;
+}
+.fashion-website-child10,
+.fashion-website-child9 {
+  left: 879px;
+}
+.fashion-website-child10 {
+  top: 2738px;
+  left: 1230px;
+}
+.div32 {
+  position: absolute;
+  top: 41px;
+  left: 43px;
+  font-weight: 500;
+}
+.fi-ss-star-parent9,
+.group-child25 {
+  position: absolute;
+  top: 41px;
+  left: 204px;
+  width: 67px;
+  height: 33px;
+}
+.group-child25 {
+  top: 43.5px;
+  left: 155.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-blusher-parent {
+  position: absolute;
+  top: 3152px;
+  left: 176px;
+  width: 315px;
+  height: 74px;
+}
+.div34 {
+  position: absolute;
+  top: 41px;
+  left: 21px;
+  font-weight: 500;
+}
+.fi-ss-star-parent10,
+.group-child26 {
+  position: absolute;
+  top: 41px;
+  left: 182px;
+  width: 67px;
+  height: 33px;
+}
+.group-child26 {
+  top: 43.5px;
+  left: 133.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.fb-8-color-eyeshadow-parent {
+  position: absolute;
+  top: 3722px;
+  left: 198px;
+  width: 270px;
+  height: 74px;
+}
+.div36 {
+  position: absolute;
+  top: 41px;
+  left: 51px;
+  font-weight: 500;
+}
+.fi-ss-star-parent11,
+.group-child27 {
+  position: absolute;
+  top: 41px;
+  left: 212px;
+  width: 67px;
+  height: 33px;
+}
+.group-child27 {
+  top: 43.5px;
+  left: 163.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-mascara-parent {
+  position: absolute;
+  top: 3152px;
+  left: 520px;
+  width: 331px;
+  height: 74px;
+}
+.div38 {
+  position: absolute;
+  top: 41px;
+  left: 77px;
+  font-weight: 500;
+}
+.fi-ss-star-parent12,
+.group-child28 {
+  position: absolute;
+  top: 41px;
+  left: 238px;
+  width: 67px;
+  height: 33px;
+}
+.group-child28 {
+  top: 43.5px;
+  left: 189.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-8-brushes-se-parent {
+  position: absolute;
+  top: 3722px;
+  left: 495px;
+  width: 380px;
+  height: 74px;
+}
+.div40 {
+  position: absolute;
+  top: 41px;
+  left: 17px;
+  font-weight: 500;
+}
+.fi-ss-star-parent13,
+.group-child29 {
+  position: absolute;
+  top: 41px;
+  left: 178px;
+  width: 67px;
+  height: 33px;
+}
+.group-child29 {
+  top: 43.5px;
+  left: 129.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.fb-eyeshadow-palette-parent {
+  position: absolute;
+  top: 3152px;
+  left: 906px;
+  width: 263px;
+  height: 74px;
+}
+.div42 {
+  position: absolute;
+  top: 41px;
+  left: 33px;
+  font-weight: 500;
+}
+.fi-ss-star-parent14,
+.group-child30 {
+  position: absolute;
+  top: 41px;
+  left: 194px;
+  width: 67px;
+  height: 33px;
+}
+.group-child30 {
+  top: 43.5px;
+  left: 145.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-serum-parent {
+  position: absolute;
+  top: 3722px;
+  left: 890px;
+  width: 294px;
+  height: 74px;
+}
+.div44 {
+  position: absolute;
+  top: 41px;
+  left: 25px;
+  font-weight: 500;
+}
+.fi-ss-star-parent15,
+.group-child31 {
+  position: absolute;
+  top: 41px;
+  left: 188px;
+  width: 67px;
+  height: 33px;
+}
+.group-child31 {
+  top: 43.5px;
+  left: 139.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-liner-parent {
+  position: absolute;
+  top: 3152px;
+  left: 1249px;
+  width: 278px;
+  height: 74px;
+}
+.fi-ss-star-parent16,
+.group-child32 {
+  position: absolute;
+  top: 41px;
+  left: 214px;
+  width: 67px;
+  height: 33px;
+}
+.group-child32 {
+  top: 43.5px;
+  left: 165.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.forever-beautiful-contour-parent {
+  position: absolute;
+  top: 3722px;
+  left: 1223px;
+  width: 330px;
+  height: 74px;
+}
+.pexels-dima-valkov-6402848-1-icon {
+  position: absolute;
+  top: 2738px;
+  left: 175px;
+  width: 318px;
+  height: 378px;
+  object-fit: cover;
+}
+.pexels-dima-valkov-6211614-1-icon,
+.pexels-dima-valkov-6402846-1-icon,
+.pexels-monstera-6311613-1-1 {
+  position: absolute;
+  top: 3308px;
+  left: 528px;
+  width: 318px;
+  height: 378px;
+  object-fit: cover;
+}
+.pexels-dima-valkov-6211614-1-icon,
+.pexels-monstera-6311613-1-1 {
+  left: 175px;
+}
+.pexels-monstera-6311613-1-1 {
+  top: 2738px;
+  left: 1230px;
+}
+.fashion-website-child11 {
+  position: absolute;
+  top: 2738px;
+  left: 528px;
+  background-color: #eaebf0;
+  width: 318px;
+  height: 378px;
+}
+.pexels-heitor-verdi-7665789-2-icon {
+  position: absolute;
+  top: 2738px;
+  left: 527px;
+  width: 315px;
+  height: 376px;
+  object-fit: cover;
+}
+.pexels-dima-valkov-6211601-1-icon {
+  position: absolute;
+  top: 3308px;
+  left: 879px;
+  width: 318px;
+  height: 378px;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(97.98deg, #f2f2f2, #eaeaea);
+  width: 318px;
+  height: 378px;
+}
+.image-1-icon,
+.pexels-dima-valkov-6511777-1-icon {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 318px;
+  height: 356px;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 0;
+  left: -3px;
+  width: 324px;
+  height: 376px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 2738px;
+  left: 879px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 318px;
+  height: 378px;
+}
+.fashion-website-child12,
+.vknivfu-sdkvbjieurg-kjvn-1 {
+  position: absolute;
+  top: 5027px;
+  left: 1119px;
+  width: 430px;
+  height: 566px;
+}
+.fashion-website-child12 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gainsboro-100);
+}
+.vknivfu-sdkvbjieurg-kjvn-1 {
+  object-fit: cover;
+}
+.sale-items-for,
+.sale1 {
+  position: absolute;
+  font-weight: 500;
+}
+.sale-items-for {
+  top: 4745px;
+  left: calc(50% - 255px);
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-roboto-slab);
+  color: var(--color-gray);
+}
+.sale1 {
+  bottom: 0;
+  left: calc(50% - 278px);
+  color: var(--color-black);
+}
+.fashion-website-child13,
+.fashion-website-child14 {
+  position: absolute;
+  top: 5027px;
+  border-radius: var(--br-10xs);
+  width: 430px;
+  height: 566px;
+}
+.fashion-website-child13 {
+  left: 175px;
+  background-color: #d3e2d6;
+}
+.fashion-website-child14 {
+  left: calc(50% - 215px);
+  background-color: var(--color-gainsboro-100);
+}
+.compact-powder,
+.gold-highlighter {
+  position: absolute;
+  top: 5618px;
+  left: calc(50% - 142px);
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.compact-powder {
+  left: calc(50% + 319px);
+  text-align: center;
+}
+.elegant-woman-straw-hat-isolat-icon,
+.pexels-dima-valkov-6211617-1-icon {
+  position: absolute;
+  top: 5027px;
+  left: 648px;
+  width: 430px;
+  height: 566px;
+  object-fit: cover;
+}
+.elegant-woman-straw-hat-isolat-icon {
+  left: 180px;
+  width: 420px;
+}
+.fashion-website-child15 {
+  position: absolute;
+  top: 7297px;
+  left: 174px;
+  border-top: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 1053px;
+  height: 2px;
+}
+.instagram-icon5,
+.twitter-icon5 {
+  position: absolute;
+  top: 7036px;
+  left: 245px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.instagram-icon5 {
+  top: 7034px;
+  left: 316px;
+  width: 38px;
+  height: 38px;
+}
+.find-your-own4 {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 687px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-fanwood-text);
+  color: var(--color-darkslategray-200);
+  display: none;
+  width: 621px;
+}
+.landing-page-child16 {
+  position: absolute;
+  top: 54px;
+  left: 1411px;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 142px;
+  height: 52px;
+}
+.about-us11,
+.contact-us5,
+.home4,
+.login4,
+.shop11 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.login4 {
+  top: 65px;
+  left: 1452px;
+  font-size: var(--font-size-xl);
+}
+.about-us11,
+.contact-us5,
+.home4,
+.shop11 {
+  top: 63px;
+}
+.home4 {
+  left: 645px;
+  text-decoration: underline;
+}
+.about-us11,
+.contact-us5,
+.shop11 {
+  left: 766px;
+}
+.about-us11,
+.contact-us5 {
+  left: 878px;
+}
+.contact-us5 {
+  left: 1030px;
+}
+.landing-page-child17 {
+  position: absolute;
+  top: 64px;
+  left: 1322px;
+  width: 32px;
+  height: 32px;
+}
+.landing-page-child18 {
+  position: absolute;
+  top: calc(50% - 324.5px);
+  left: 983px;
+  border-radius: var(--br-122xl) var(--br-26xl) var(--br-131xl) var(--br-63xl);
+  background-color: var(--color-mediumseagreen);
+  box-shadow: 6px 6px 41px rgba(0, 0, 0, 0.08) inset;
+  width: 570px;
+  height: 717px;
+  display: none;
+}
+.landing-page-child19,
+.pexels-heitor-verdi-7665789-1-icon4 {
+  position: absolute;
+  top: 2778px;
+  left: 528px;
+  width: 317px;
+  height: 376px;
+  object-fit: cover;
+}
+.landing-page-child19 {
+  top: 162px;
+  left: 50px;
+  width: 1628px;
+  height: 955px;
+}
+.forever-beautiful11 {
+  position: absolute;
+  top: 52px;
+  left: 166px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-syncopate);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 275px;
+  height: 53px;
+}
+.landing-page-child20 {
+  position: absolute;
+  top: 771px;
+  left: 1030px;
+  width: 648px;
+  height: 97px;
+  mix-blend-mode: luminosity;
+}
+.forever-beautiful-by5 {
+  position: absolute;
+  top: 801px;
+  left: 1174px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-krona-one);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 379px;
+  height: 68px;
+}
+.landing-page4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-pink-200);
+  width: 1728px;
+  height: 1117px;
+  overflow: hidden;
+  color: var(--color-gray);
+}
+.new-arrivals1,
+.sale2,
+.toh {
+  position: absolute;
+  top: 4878px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.toh {
+  left: 890px;
+  display: inline-block;
+  width: 116px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.new-arrivals1,
+.sale2 {
+  left: 1037px;
+}
+.sale2 {
+  top: 4871px;
+  left: 584px;
+  text-decoration: underline;
+}
+.group-child33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-pink-200);
+  width: 1433px;
+  height: 641px;
+}
+.group-child34 {
+  position: absolute;
+  top: 434.5px;
+  left: 101px;
+  background-color: rgba(223, 251, 234, 0.5);
+  width: 197.7px;
+  height: 140.9px;
+}
+.exclusive-offer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 305.5px);
+  font-size: 46px;
+  display: inline-block;
+  font-family: var(--font-roboto-slab);
+  width: 347.6px;
+  height: 65.6px;
+}
+.unlock-the-ultimate {
+  position: absolute;
+  top: 87.1px;
+  left: calc(50% - 306.5px);
+  font-size: var(--font-size-3xl);
+  line-height: 167%;
+  font-weight: 500;
+  display: inline-block;
+  width: 613px;
+  height: 119.4px;
+}
+.group-child35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  box-shadow: 0 7px 30px rgba(0, 0, 0, 0.05);
+  width: 104.1px;
+  height: 107.6px;
+}
+.days,
+.div48 {
+  position: absolute;
+  top: 63.5px;
+  left: 29.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 42.7px;
+  height: 25.8px;
+}
+.div48 {
+  top: 17.2px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  width: 43.7px;
+  height: 51.6px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 249.5px;
+  left: 2px;
+  width: 104.1px;
+  height: 107.6px;
+  font-size: var(--font-size-base);
+}
+.div49,
+.hours {
+  position: absolute;
+  top: 18.3px;
+  left: 34.3px;
+  font-weight: 600;
+  display: inline-block;
+  width: 34.3px;
+  height: 51.6px;
+}
+.hours {
+  top: 64.5px;
+  left: 27.1px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  width: 48.9px;
+  height: 25.8px;
+}
+.div50,
+.min,
+.rectangle-parent4 {
+  position: absolute;
+  top: 249.5px;
+  left: 141.5px;
+  width: 104.1px;
+  height: 107.6px;
+}
+.div50,
+.min {
+  top: 17.2px;
+  left: 30.2px;
+  font-weight: 600;
+  display: inline-block;
+  width: 43.7px;
+  height: 51.6px;
+}
+.min {
+  top: 63.5px;
+  left: 36.4px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  width: 30.2px;
+  height: 25.8px;
+}
+.group-child38,
+.rectangle-parent5 {
+  position: absolute;
+  top: 249.5px;
+  left: 281px;
+  width: 104.1px;
+  height: 107.6px;
+}
+.group-child38 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  box-shadow: 0 7px 30px rgba(0, 0, 0, 0.05);
+  width: 244.6px;
+  height: 79.6px;
+}
+.buy-now {
+  position: absolute;
+  top: 23.7px;
+  left: 71.8px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 98.9px;
+  height: 32.3px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 401.2px;
+  left: 2px;
+  width: 244.6px;
+  height: 79.6px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.exclusive-offer-parent {
+  position: absolute;
+  top: 80.7px;
+  left: calc(50% - 26.4px);
+  width: 613px;
+  height: 480.8px;
+}
+.group-child39 {
+  position: absolute;
+  top: 478.6px;
+  left: 41.7px;
+  width: 161.3px;
+  height: 118.3px;
+}
+.excited-white-girl-bright-styl-icon {
+  position: absolute;
+  top: 23px;
+  left: 34px;
+  width: 547px;
+  height: 594px;
+  object-fit: cover;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 3995px;
+  left: 153px;
+  width: 1433px;
+  height: 641px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.matte-lipstick {
+  top: 5618px;
+  left: calc(50% - 595px);
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+  white-space: pre-wrap;
+}
+.div51,
+.div52,
+.matte-lipstick {
+  position: absolute;
+}
+.div51 {
+  top: 0;
+  left: 76px;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.div52 {
+  top: 41px;
+  left: 0;
+  text-decoration: line-through;
+  font-weight: 500;
+}
+.fi-ss-star-parent17,
+.group-child40 {
+  position: absolute;
+  top: 41px;
+  left: 161px;
+  width: 67px;
+  height: 33px;
+}
+.group-child40 {
+  top: 43.5px;
+  left: 112.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.parent {
+  position: absolute;
+  top: 5668px;
+  left: 266px;
+  width: 228px;
+  height: 74px;
+}
+.div54 {
+  top: 0;
+  left: 79px;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.div54,
+.div57,
+.group {
+  position: absolute;
+}
+.group {
+  top: 5663px;
+  left: 747px;
+  width: 228px;
+  height: 74px;
+}
+.div57 {
+  top: 0;
+  left: 77px;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.fi-ss-star-parent19,
+.group-child42 {
+  position: absolute;
+  top: 41px;
+  left: 163px;
+  width: 67px;
+  height: 33px;
+}
+.group-child42 {
+  top: 43.5px;
+  left: 113.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 28px;
+}
+.container {
+  position: absolute;
+  top: 5665px;
+  left: 1218px;
+  width: 230px;
+  height: 74px;
+}
+.forever6 {
+  margin: 0;
+}
+.forever-beautiful12 {
+  position: absolute;
+  top: 6835px;
+  left: 141px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  text-align: center;
+}
+.fashion-website {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7395px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}

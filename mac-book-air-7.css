@@ -1,0 +1,172 @@
+.contact3,
+.order {
+  position: absolute;
+  top: 155px;
+  left: 83px;
+  font-weight: 600;
+}
+.order {
+  top: 68px;
+  left: 800px;
+}
+.macbook-air-7-child {
+  position: absolute;
+  top: 215px;
+  left: 78px;
+  background-color: var(--color-gainsboro-100);
+  width: 1545px;
+  height: 103px;
+}
+.email-or-mobile {
+  position: absolute;
+  top: 229px;
+  left: 112px;
+  font-weight: 100;
+}
+.macbook-air-7-item {
+  position: absolute;
+  top: 457px;
+  left: 83px;
+  background-color: var(--color-gainsboro-100);
+  width: 1540px;
+  height: 97px;
+}
+.country {
+  position: absolute;
+  top: 484px;
+  left: 112px;
+  font-weight: 100;
+}
+.macbook-air-7-inner {
+  position: absolute;
+  top: 799px;
+  left: 78px;
+  background-color: var(--color-gainsboro-100);
+  width: 1545px;
+  height: 93px;
+}
+.delivery {
+  position: absolute;
+  top: 405px;
+  left: 78px;
+  font-weight: 600;
+}
+.macbook-air-7-child1 {
+  position: absolute;
+  top: 637px;
+  left: 77px;
+  background-color: var(--color-gainsboro-100);
+  width: 719px;
+  height: 75px;
+}
+.first-name {
+  position: absolute;
+  top: 645px;
+  left: 112px;
+  font-weight: 100;
+}
+.macbook-air-7-child2 {
+  position: absolute;
+  top: 637px;
+  left: 899px;
+  background-color: var(--color-gainsboro-100);
+  width: 724px;
+  height: 75px;
+}
+.address,
+.last-name,
+.shipping-method {
+  position: absolute;
+  top: 645px;
+  left: 933px;
+  font-weight: 100;
+}
+.address,
+.shipping-method {
+  top: 806px;
+  left: 112px;
+}
+.shipping-method {
+  top: 963px;
+  left: 87px;
+  font-weight: 600;
+}
+.macbook-air-7-child3 {
+  position: absolute;
+  top: 1023px;
+  left: 78px;
+  background-color: var(--color-gainsboro-100);
+  width: 1545px;
+  height: 98px;
+}
+.div22,
+.payment,
+.standard-3-to {
+  position: absolute;
+  top: 1042px;
+  left: 1465px;
+  font-weight: 100;
+}
+.payment,
+.standard-3-to {
+  left: 112px;
+}
+.payment {
+  top: 1222px;
+  left: 83px;
+  font-weight: 600;
+}
+.macbook-air-7-child4 {
+  position: absolute;
+  top: 1282px;
+  left: 78px;
+  background-color: var(--color-gainsboro-100);
+  width: 1545px;
+  height: 83px;
+}
+.cash-on-delivery {
+  position: absolute;
+  top: 1293px;
+  left: 112px;
+  font-weight: 100;
+}
+.macbook-air-7-child5 {
+  position: absolute;
+  top: 1436px;
+  left: 77px;
+  background-color: var(--color-gainsboro-100);
+  width: 1546px;
+  height: 93px;
+}
+.mobile-phone-number {
+  position: absolute;
+  top: 1446px;
+  left: 117px;
+  font-weight: 100;
+}
+.macbook-air-7-child6 {
+  position: absolute;
+  top: 1660px;
+  left: 376px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-pink-200);
+  width: 1045px;
+  height: 104px;
+}
+.complete-order {
+  position: absolute;
+  top: 1682px;
+  left: 735px;
+  font-weight: 600;
+}
+.macbook-air-7 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2053px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

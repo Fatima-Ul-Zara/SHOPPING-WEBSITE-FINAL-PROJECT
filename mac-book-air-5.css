@@ -1,0 +1,448 @@
+.find-your-own {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 721px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-fanwood-text);
+  color: var(--color-darkslategray-200);
+  display: none;
+  width: 621px;
+}
+.landing-page-child {
+  position: absolute;
+  top: 54px;
+  left: 1520px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-lightsteelblue);
+  border: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 142px;
+  height: 52px;
+}
+.about-us1,
+.contact-us,
+.home,
+.login,
+.shop1 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.login {
+  top: 65px;
+  left: 1561px;
+  font-size: var(--font-size-xl);
+}
+.about-us1,
+.contact-us,
+.home,
+.shop1 {
+  top: 63px;
+  left: 686px;
+}
+.about-us1,
+.contact-us,
+.shop1 {
+  left: 821px;
+}
+.about-us1,
+.contact-us {
+  left: 946px;
+}
+.contact-us {
+  left: 1111px;
+}
+.landing-page-item {
+  position: absolute;
+  top: 64px;
+  left: 1417px;
+  width: 32px;
+  height: 32px;
+}
+.landing-page-inner {
+  position: absolute;
+  top: calc(50% - 325px);
+  left: 1051px;
+  border-radius: var(--br-122xl) var(--br-26xl) var(--br-131xl) var(--br-63xl);
+  background-color: var(--color-mediumseagreen);
+  box-shadow: 6px 6px 41px rgba(0, 0, 0, 0.08) inset;
+  width: 570px;
+  height: 717px;
+  display: none;
+}
+.pexels-heitor-verdi-7665789-1-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 2778px;
+  left: 569px;
+  width: 317px;
+  height: 376px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 162px;
+  left: 50px;
+  width: 1628px;
+  height: 955px;
+}
+.forever-beautiful1 {
+  position: absolute;
+  top: 52px;
+  left: 179px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-syncopate);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 275px;
+  height: 53px;
+}
+.landing-page-child1 {
+  position: absolute;
+  top: 770px;
+  left: 1030px;
+  width: 648px;
+  height: 97px;
+  mix-blend-mode: luminosity;
+}
+.forever-beautiful-by {
+  position: absolute;
+  top: 801px;
+  left: 1255px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-krona-one);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 379px;
+  height: 68px;
+}
+.landing-page,
+.log-in {
+  position: absolute;
+  color: var(--color-gray);
+}
+.landing-page {
+  top: -15px;
+  left: 0;
+  background-color: var(--color-pink-200);
+  width: 1864px;
+  height: 1186px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+}
+.log-in {
+  top: 1332px;
+  left: calc(50% - 132.5px);
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  display: inline-block;
+  width: 491px;
+  height: 169px;
+}
+.macbook-air-5-child {
+  position: absolute;
+  top: 1540px;
+  left: 130px;
+  background-color: var(--color-gainsboro-100);
+  width: 1431px;
+  height: 150px;
+}
+.email {
+  position: absolute;
+  top: 1577px;
+  left: 179px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.macbook-air-5-item {
+  position: absolute;
+  top: 1851px;
+  left: 130px;
+  background-color: var(--color-gainsboro-100);
+  width: 1431px;
+  height: 150px;
+}
+.forgot-your-password,
+.password {
+  position: absolute;
+  top: 1888px;
+  left: 179px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.forgot-your-password {
+  top: 2039px;
+  left: 142px;
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+}
+.macbook-air-5-inner {
+  position: absolute;
+  top: 2260px;
+  left: 716px;
+  border-radius: 20px;
+  background-color: var(--color-pink-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 295px;
+  height: 138px;
+}
+.create-account,
+.sign-in {
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.sign-in {
+  top: 2305px;
+  left: 787px;
+  font-size: var(--font-size-21xl);
+}
+.create-account {
+  top: 2437px;
+  left: 694px;
+  font-size: 35px;
+  text-decoration: underline;
+  white-space: pre-wrap;
+}
+.macbook-air-5-child1 {
+  position: absolute;
+  top: 2829px;
+  left: calc(50% - 873.5px);
+  background-color: var(--color-gray);
+  width: 1735px;
+  height: 820px;
+}
+.forever1 {
+  margin: 0;
+}
+.forever-beautiful2 {
+  position: absolute;
+  top: 2914px;
+  left: 152px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  text-align: center;
+}
+.overview1,
+.pricing1,
+.products1,
+.releases1,
+.shop2 {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.shop2 {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  width: 75.5px;
+}
+.overview1,
+.pricing1,
+.products1,
+.releases1 {
+  top: 54px;
+  text-transform: capitalize;
+  width: 112px;
+}
+.overview1,
+.pricing1,
+.releases1 {
+  top: 102px;
+  width: 117px;
+}
+.pricing1,
+.releases1 {
+  top: 150px;
+  width: 86.8px;
+}
+.releases1 {
+  top: 198px;
+  width: 113.2px;
+}
+.shop-group {
+  position: absolute;
+  top: 2987px;
+  left: 577px;
+  width: 117px;
+  height: 228px;
+  color: var(--color-pink-100);
+}
+.company1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+}
+.about-us2,
+.contact1,
+.news1,
+.support1 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.contact1,
+.news1,
+.support1 {
+  top: 102px;
+}
+.news1,
+.support1 {
+  top: 150px;
+}
+.support1 {
+  top: 198px;
+}
+.company-group {
+  position: absolute;
+  top: 2987px;
+  left: 811px;
+  width: 113px;
+  height: 228px;
+  color: var(--color-pink-100);
+}
+.enter-your-email1 {
+  position: absolute;
+  top: 84px;
+  left: 28px;
+  display: inline-block;
+  width: 162px;
+  height: 29.3px;
+}
+.group-child1,
+.group-inner {
+  position: absolute;
+  top: 70.3px;
+  height: 55.7px;
+}
+.group-inner {
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 487px;
+}
+.group-child1 {
+  left: 372px;
+  background-color: var(--color-pink-200);
+  width: 115px;
+}
+.stay-up-to1,
+.submit1 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.submit1 {
+  top: 84px;
+  left: 393px;
+  color: var(--color-darkslategray-200);
+  width: 73px;
+  height: 29.3px;
+}
+.stay-up-to1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto-slab);
+  width: 191px;
+  height: 28.3px;
+}
+.enter-your-email-group {
+  position: absolute;
+  top: 2987px;
+  left: 1034px;
+  width: 487px;
+  height: 126px;
+}
+.social-media1 {
+  position: absolute;
+  top: 3072px;
+  left: 225px;
+  font-size: var(--font-size-3xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+}
+.facebook-icon1,
+.instagram-icon1,
+.twitter-icon1 {
+  position: absolute;
+  top: 3143px;
+  left: 178px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.instagram-icon1,
+.twitter-icon1 {
+  top: 3144px;
+  left: 278px;
+  width: 35px;
+  height: 35px;
+}
+.instagram-icon1 {
+  top: 3138px;
+  left: 384px;
+  width: 38px;
+  height: 38px;
+}
+.cookies1,
+.privacy1,
+.terms1 {
+  position: absolute;
+  top: 3487px;
+  left: 1246px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.cookies1,
+.privacy1 {
+  top: 3488px;
+  left: 1368px;
+}
+.cookies1 {
+  left: 1521px;
+}
+.macbook-air-5-child2 {
+  position: absolute;
+  top: 3509px;
+  left: 137px;
+  border-top: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 1053px;
+  height: 2px;
+}
+.macbook-air-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3860px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

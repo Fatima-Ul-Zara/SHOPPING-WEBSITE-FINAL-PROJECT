@@ -1,0 +1,468 @@
+.find-your-own2 {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 688px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-fanwood-text);
+  color: var(--color-darkslategray-200);
+  display: none;
+  width: 621px;
+}
+.landing-page-child6 {
+  position: absolute;
+  top: 54px;
+  left: 1415px;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 142px;
+  height: 52px;
+}
+.about-us5,
+.contact-us2,
+.home2,
+.login2,
+.shop6 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.login2 {
+  top: 65px;
+  left: 1456px;
+  font-size: var(--font-size-xl);
+}
+.about-us5,
+.contact-us2,
+.home2,
+.shop6 {
+  top: 63px;
+  left: 647px;
+}
+.about-us5,
+.contact-us2,
+.shop6 {
+  left: 768px;
+}
+.about-us5,
+.contact-us2 {
+  left: 880px;
+}
+.contact-us2 {
+  left: 1032px;
+  text-decoration: underline;
+}
+.landing-page-child7 {
+  position: absolute;
+  top: 64px;
+  left: 1324px;
+  width: 32px;
+  height: 32px;
+}
+.landing-page-child8 {
+  position: absolute;
+  top: calc(50% - 325px);
+  left: 985px;
+  border-radius: var(--br-122xl) var(--br-26xl) var(--br-131xl) var(--br-63xl);
+  background-color: var(--color-mediumseagreen);
+  box-shadow: 6px 6px 41px rgba(0, 0, 0, 0.08) inset;
+  width: 570px;
+  height: 717px;
+  display: none;
+}
+.landing-page-child9,
+.pexels-heitor-verdi-7665789-1-icon2 {
+  position: absolute;
+  top: 2778px;
+  left: 530px;
+  width: 317px;
+  height: 376px;
+  object-fit: cover;
+}
+.landing-page-child9 {
+  top: 162px;
+  left: 50px;
+  width: 1628px;
+  height: 955px;
+}
+.forever-beautiful6 {
+  position: absolute;
+  top: 52px;
+  left: 166px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-syncopate);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 275px;
+  height: 53px;
+}
+.landing-page-child10 {
+  position: absolute;
+  top: 771px;
+  left: 1032px;
+  width: 648px;
+  height: 97px;
+  mix-blend-mode: luminosity;
+}
+.forever-beautiful-by2 {
+  position: absolute;
+  top: 801px;
+  left: 1176px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-krona-one);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 379px;
+  height: 68px;
+}
+.contact-us3,
+.landing-page2 {
+  position: absolute;
+  color: var(--color-gray);
+}
+.landing-page2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-pink-200);
+  width: 1732px;
+  height: 1186px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+}
+.contact-us3 {
+  top: 1298px;
+  left: calc(50% - 221px);
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  display: inline-block;
+  width: 491px;
+  height: 169px;
+}
+.macbook-air-3-child {
+  position: absolute;
+  top: 1551px;
+  left: 47px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 657px;
+  height: 130px;
+}
+.name {
+  position: absolute;
+  top: 1579px;
+  left: 61px;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.macbook-air-3-item {
+  position: absolute;
+  top: 1759px;
+  left: 47px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 1544px;
+  height: 163px;
+}
+.phone-no {
+  position: absolute;
+  top: 1803px;
+  left: 61px;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.macbook-air-3-inner {
+  position: absolute;
+  top: 1551px;
+  left: 755px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 836px;
+  height: 130px;
+}
+.email1 {
+  position: absolute;
+  top: 1579px;
+  left: 775px;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.macbook-air-3-child1 {
+  position: absolute;
+  top: 2000px;
+  left: 47px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 1544px;
+  height: 603px;
+}
+.comment {
+  position: absolute;
+  top: 2044px;
+  left: 63px;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+}
+.macbook-air-3-child2 {
+  position: absolute;
+  top: 2708px;
+  left: 50px;
+  background-color: var(--color-pink-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 305px;
+  height: 120px;
+}
+.send {
+  position: absolute;
+  top: 2725px;
+  left: 113px;
+  font-weight: 500;
+  font-family: var(--font-roboto-serif);
+  color: var(--color-black);
+  display: inline-block;
+  width: 180px;
+  height: 27px;
+}
+.macbook-air-3-child3 {
+  position: absolute;
+  top: 3024px;
+  left: calc(50% - 869px);
+  background-color: var(--color-gray);
+  width: 1735px;
+  height: 820px;
+}
+.forever4 {
+  margin: 0;
+}
+.forever-beautiful7 {
+  position: absolute;
+  top: 3088px;
+  left: 86px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  text-align: center;
+}
+.overview3,
+.pricing3,
+.products3,
+.releases3,
+.shop7 {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.shop7 {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  width: 75.5px;
+}
+.overview3,
+.pricing3,
+.products3,
+.releases3 {
+  top: 54px;
+  text-transform: capitalize;
+  width: 112px;
+}
+.overview3,
+.pricing3,
+.releases3 {
+  top: 102px;
+  width: 117px;
+}
+.pricing3,
+.releases3 {
+  top: 150px;
+  width: 86.8px;
+}
+.releases3 {
+  top: 198px;
+  width: 113.2px;
+}
+.shop-parent1 {
+  position: absolute;
+  top: 3190px;
+  left: 528px;
+  width: 117px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.company3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+}
+.about-us6,
+.contact4,
+.news3,
+.support3 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.contact4,
+.news3,
+.support3 {
+  top: 102px;
+}
+.news3,
+.support3 {
+  top: 150px;
+}
+.support3 {
+  top: 198px;
+}
+.company-parent1 {
+  position: absolute;
+  top: 3198px;
+  left: 755px;
+  width: 113px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.enter-your-email3 {
+  position: absolute;
+  top: 84px;
+  left: 28px;
+  display: inline-block;
+  width: 162px;
+  height: 29.3px;
+}
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 70.3px;
+  height: 55.7px;
+}
+.group-child13 {
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 487px;
+}
+.group-child14 {
+  left: 372px;
+  background-color: var(--color-pink-200);
+  width: 115px;
+}
+.stay-up-to3,
+.submit3 {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.submit3 {
+  top: 84px;
+  left: 393px;
+  color: var(--color-darkslategray-200);
+  width: 73px;
+  height: 29.3px;
+}
+.stay-up-to3 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto-slab);
+  width: 191px;
+  height: 28.3px;
+}
+.enter-your-email-parent1 {
+  position: absolute;
+  top: 3198px;
+  left: 1004px;
+  width: 487px;
+  height: 126px;
+  font-size: var(--font-size-xl);
+}
+.macbook-air-3-child4 {
+  position: absolute;
+  top: 3725px;
+  left: 39px;
+  border-top: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 1053px;
+  height: 2px;
+}
+.cookies3,
+.privacy3,
+.social-media3,
+.terms3 {
+  position: absolute;
+  top: 3704px;
+  left: 1172px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.cookies3,
+.privacy3,
+.social-media3 {
+  left: 1300px;
+}
+.cookies3,
+.social-media3 {
+  left: 1450px;
+}
+.social-media3 {
+  top: 3276px;
+  left: 162px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+}
+.facebook-icon3,
+.instagram-icon3,
+.twitter-icon3 {
+  position: absolute;
+  top: 3340px;
+  left: 86px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.instagram-icon3,
+.twitter-icon3 {
+  top: 3345px;
+  left: 208px;
+  width: 35px;
+  height: 35px;
+}
+.instagram-icon3 {
+  left: 336px;
+  width: 38px;
+  height: 38px;
+}
+.macbook-air-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

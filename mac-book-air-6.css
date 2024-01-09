@@ -1,0 +1,381 @@
+.macbook-air-6-child {
+  position: absolute;
+  top: 272px;
+  left: 126px;
+  width: 605px;
+  height: 771px;
+  object-fit: cover;
+}
+.forever-beautiful-matte {
+  position: absolute;
+  top: 353px;
+  left: 793px;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-krona-one);
+  text-align: center;
+  display: inline-block;
+  width: 853px;
+}
+.colors,
+.div,
+.price {
+  position: absolute;
+  top: 640px;
+  left: 1035px;
+  font-weight: 500;
+}
+.colors,
+.price {
+  left: 822px;
+}
+.colors {
+  top: 829px;
+  left: 840px;
+}
+.macbook-air-6-item,
+.pink {
+  position: absolute;
+  top: 927px;
+}
+.macbook-air-6-item {
+  left: 840px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 256px;
+  height: 75px;
+}
+.pink {
+  left: 876px;
+  font-weight: 500;
+}
+.macbook-air-6-inner {
+  left: 1116px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 256px;
+  height: 75px;
+}
+.macbook-air-6-inner,
+.rectangle-div,
+.red {
+  position: absolute;
+  top: 927px;
+}
+.red {
+  left: 1145px;
+  font-weight: 500;
+}
+.rectangle-div {
+  left: 1392px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightsteelblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 256px;
+  height: 75px;
+}
+.peach,
+.quantity {
+  position: absolute;
+  top: 927px;
+  left: 1421px;
+  font-weight: 500;
+}
+.quantity {
+  top: 1114px;
+  left: 836px;
+}
+.macbook-air-6-child1 {
+  position: absolute;
+  top: 1212px;
+  left: 836px;
+  background-color: var(--color-gainsboro-100);
+  width: 231px;
+  height: 64px;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 1200px;
+  left: 851px;
+  font-weight: 500;
+}
+.div2,
+.div3 {
+  top: 1216px;
+  left: 1032px;
+}
+.div3 {
+  top: 1212px;
+  left: 944px;
+}
+.macbook-air-6-child2 {
+  position: absolute;
+  top: 1430px;
+  left: 865px;
+  background-color: var(--color-gainsboro-100);
+  width: 583px;
+  height: 94px;
+}
+.add-to-cart {
+  position: absolute;
+  top: 1447px;
+  left: 1011px;
+  font-weight: 500;
+}
+.macbook-air-6-child3 {
+  position: absolute;
+  top: 1621px;
+  left: 865px;
+  background-color: var(--color-lightsteelblue);
+  width: 583px;
+  height: 94px;
+}
+.buy-it-now {
+  position: absolute;
+  top: 1643px;
+  left: 1029px;
+  font-weight: 500;
+}
+.macbook-air-6-child4 {
+  position: absolute;
+  top: 2076px;
+  left: calc(50% - 860.5px);
+  background-color: var(--color-gray);
+  width: 1731px;
+  height: 864px;
+}
+.forever {
+  margin: 0;
+}
+.forever-beautiful {
+  position: absolute;
+  top: 2133px;
+  left: 100px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  text-align: center;
+}
+.overview,
+.pricing,
+.products,
+.releases,
+.shop {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.shop {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  width: 75.5px;
+}
+.overview,
+.pricing,
+.products,
+.releases {
+  top: 54px;
+  text-transform: capitalize;
+  width: 112px;
+}
+.overview,
+.pricing,
+.releases {
+  top: 102px;
+  width: 117px;
+}
+.pricing,
+.releases {
+  top: 150px;
+  width: 86.8px;
+}
+.releases {
+  top: 198px;
+  width: 113.2px;
+}
+.shop-parent {
+  position: absolute;
+  top: 2223px;
+  left: 666px;
+  width: 117px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.company {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+}
+.about-us,
+.contact,
+.news,
+.support {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.contact,
+.news,
+.support {
+  top: 102px;
+}
+.news,
+.support {
+  top: 150px;
+}
+.support {
+  top: 198px;
+}
+.company-parent {
+  position: absolute;
+  top: 2222px;
+  left: 944px;
+  width: 113px;
+  height: 228px;
+  font-size: var(--font-size-xl);
+  color: var(--color-pink-100);
+}
+.enter-your-email {
+  position: absolute;
+  top: 84px;
+  left: 28px;
+  display: inline-block;
+  width: 162px;
+  height: 29.3px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 70.3px;
+  height: 55.7px;
+}
+.group-child {
+  left: 0;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 487px;
+}
+.group-item {
+  left: 372px;
+  background-color: var(--color-pink-200);
+  width: 115px;
+}
+.stay-up-to,
+.submit {
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.submit {
+  top: 84px;
+  left: 393px;
+  color: var(--color-darkslategray-200);
+  width: 73px;
+  height: 29.3px;
+}
+.stay-up-to {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto-slab);
+  width: 191px;
+  height: 28.3px;
+}
+.enter-your-email-parent {
+  position: absolute;
+  top: 2223px;
+  left: 1204px;
+  width: 487px;
+  height: 126px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.line-div {
+  position: absolute;
+  top: 2762px;
+  left: 125px;
+  border-top: 2px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 1053px;
+  height: 2px;
+}
+.cookies,
+.privacy,
+.social-media,
+.terms {
+  position: absolute;
+  top: 2749px;
+  left: 1284px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.cookies,
+.privacy,
+.social-media {
+  top: 2748px;
+  left: 1444px;
+}
+.cookies,
+.social-media {
+  top: 2749px;
+  left: 1593px;
+}
+.social-media {
+  top: 2301px;
+  left: 160px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-icon {
+  position: absolute;
+  top: 2388px;
+  left: 100px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.instagram-icon,
+.twitter-icon {
+  top: 2386px;
+  left: 210px;
+  width: 35px;
+  height: 35px;
+}
+.instagram-icon {
+  top: 2390px;
+  left: 317px;
+  width: 38px;
+  height: 38px;
+}
+.macbook-air-6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
